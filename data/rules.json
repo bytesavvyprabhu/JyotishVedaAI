@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Saturn in the 7th house: marriage may be delayed, often occurring after age 28-30. The spouse tends to be mature, responsible, and possibly older. The marriage becomes stable and enduring after initial delays or obstacles. Native takes commitments seriously.",
+    "metadata": {"planet": "Saturn", "house": 7, "topic": "marriage", "source": "classical"}
+  },
+  {
+    "text": "Jupiter in the 10th house: strong career in teaching, law, finance, or advisory roles. Native gains respect and authority in profession. Success comes through wisdom, ethics, and guidance of mentors. Recognition from government or institutions is possible.",
+    "metadata": {"planet": "Jupiter", "house": 10, "topic": "career", "source": "classical"}
+  },
+  {
+    "text": "Mars in the 1st house (Manglik): native is energetic, courageous, and independent, but can be impulsive and quick-tempered. Physical vitality is strong. In marriage matters, Manglik dosha is considered; matching with another Manglik chart is traditionally advised.",
+    "metadata": {"planet": "Mars", "house": 1, "topic": "personality", "source": "classical"}
+  },
+  {
+    "text": "Moon in Cancer: the Moon is in its own sign, giving emotional depth, strong intuition, and attachment to home and mother. Native is nurturing and sensitive, with good memory and imagination. Mind remains largely stable and content.",
+    "metadata": {"planet": "Moon", "sign": "Cancer", "topic": "mind", "source": "classical"}
+  },
+  {
+    "text": "Rahu in the 10th house: intense ambition for status and worldly success. Career may involve foreign connections, technology, or unconventional fields. Sudden rises and falls in profession are possible. Native should guard against unethical shortcuts.",
+    "metadata": {"planet": "Rahu", "house": 10, "topic": "career", "source": "classical"}
+  },
+  {
+    "text": "Venus in the 2nd house: wealth through arts, beauty, luxury goods, or entertainment. Sweet speech and attractive personality help in earning. Family life is comfortable and the native enjoys good food and refined possessions.",
+    "metadata": {"planet": "Venus", "house": 2, "topic": "wealth", "source": "classical"}
+  },
+  {
+    "text": "Sun in the 10th house: natural leadership and authority in career. Native rises to positions of power, possibly in government, administration, or management. Father plays a significant role in professional life. Recognition and fame are indicated.",
+    "metadata": {"planet": "Sun", "house": 10, "topic": "career", "source": "classical"}
+  },
+  {
+    "text": "Saturn Mahadasha (19 years): a period of discipline, hard work, and karmic lessons. Rewards come slowly but are lasting. If Saturn is well-placed, this dasha brings career consolidation, property, and authority. If afflicted, delays, health issues, and increased responsibilities test the native.",
+    "metadata": {"planet": "Saturn", "topic": "dasha", "source": "classical"}
+  },
+  {
+    "text": "Jupiter Mahadasha (16 years): generally auspicious period bringing growth in knowledge, wealth, and family. Marriage, childbirth, higher education, and spiritual progress are common results. Blessings of teachers and elders support the native.",
+    "metadata": {"planet": "Jupiter", "topic": "dasha", "source": "classical"}
+  },
+  {
+    "text": "7th house lord in the 11th house: spouse may come through friends or social networks. Marriage brings gains and fulfillment of desires. Partner is supportive of native's ambitions and social standing improves after marriage.",
+    "metadata": {"house": 7, "topic": "marriage", "source": "classical"}
+  }
+]

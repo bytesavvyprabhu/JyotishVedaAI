@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Generated vector DB (rebuild with `python Ingest.py`)
+chroma_db/
+
+# Misc
+.dist/
